@@ -13,7 +13,7 @@ var                 /
 .htaccess.sample    /
 api.php             /
 cron.php            /
-cron.shell          /
+cron.sh             /
 get.php             /
 favicon.ico         /
 index.php           /
